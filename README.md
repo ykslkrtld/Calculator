@@ -1,1 +1,1 @@
-İos calculater
+IOS calculater without using JS
